@@ -1,7 +1,7 @@
 ## Olá eu sou o Juan Lemos!!!
 
 - 🔭 Atualmente estou desevolvendo projetos pessoais
-- 🌱 Hoje estou estudando HTML,CSS e JS
+- 🌱 Estou estudando HTML,CSS e JS
 
 <div align="center">
   <a href="https://github.com/JuanSanjuanLemos">
