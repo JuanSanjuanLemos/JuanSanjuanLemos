@@ -1,7 +1,7 @@
 ## Olá eu sou o Juan Lemos!!!
 
-- 🔭 Atualmente estou desevolvendo projetos pessoais
-- 🌱 Estou estudando HTML,CSS e JS
+- 🔭 Sou um jovem que tem uma queda pela programação
+- 🌱 Estou cursando Sistemas de Informação no IFNMG-Pirapora
 
 <div align="center">
   <a href="https://github.com/JuanSanjuanLemos">
