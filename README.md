@@ -1,6 +1,6 @@
 ## Olá eu sou o Juan Lemos!!!
 
-- 🔭 Sou um jovem que tem uma queda pela programação
+- 🔭 Sou um desenvolvedor front-end
 - 🌱 Estou cursando Sistemas de Informação no IFNMG-Pirapora
 
 <div align="center">
